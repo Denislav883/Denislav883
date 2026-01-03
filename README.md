@@ -17,10 +17,20 @@
 👋Hi, glad to see you here! I'm Denislav Yanev, a 17-year-old aspiring software developer with a strong passion for JavaScript currently studying Software Engeneering at [SoftUni](https://softuni.bg/) 💻. My main focus is JavaScript <img width="18" height="17" alt="image" src="https://github.com/user-attachments/assets/5640ef7f-eafa-435e-ab68-a8382c5a8f2d" />, but I'm always open to learning new languages and technologies. I'm constantly learning, building, and improving with the goal of becoming a better developer every day.
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,html,css&perline=14)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,html,css&perline=6)](https://skillicons.dev)
 
 ### Others
-[![Others](https://skillicons.dev/icons?i=mongodb,git,postman,npm,github,vscode,visualstudio&perline=13)](https://skillicons.dev)
+[![Others](https://skillicons.dev/icons?i=mongodb,git,postman,npm,github,vscode&perline=6)](https://skillicons.dev)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-phi-fawn-94.vercel.app/api?username=Denislav883&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&border_radius=14&format=png&v=4" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats-phi-fawn-94.vercel.app/api?username=Denislav883&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&border_radius=14&format=png&v=4" />
+  <img alt="GitHub stats"
+    src="https://github-readme-stats-phi-fawn-94.vercel.app/api?username=Denislav883&show_icons=true&theme=default&hide_border=true&border_radius=14&format=png&v=4"
+    height="195" />
+</picture>
 
 <div align="center">
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
